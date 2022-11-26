@@ -65,7 +65,7 @@ msgstr "Pamiętaj katalog"
 
 #: ui/settings_view.ui:104
 msgid "Window"
-msgstr "Okno"
+msgstr "Окно"
 
 #: ui/settings_view.ui:117
 msgid "Remember window size"
